@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# wednesdaytoday
+#
+
+projectname: wednesdaytoday
+vendorid: com.mycompany.wedto
+mainmodule: com.mycompany.wedto.wednesdaytoday
